@@ -1,0 +1,36 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.header {
+    background-color: #2f68d8;
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+}
+
+.sub-header {
+    background-color: #f1f75d;
+    color: #2f68d8;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.card-metric {
+    background-color: #ffc233;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.slide-note {
+    font-size: 0.9rem;
+    text-align: center;
+    opacity: 0.6;
+    margin-top: 10px;
+}
