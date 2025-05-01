@@ -1,4 +1,4 @@
-const callsUrl = "https://script.google.com/macros/s/AKfycbzFU8_3JDGl4jOJqVoEtdz7-ATt5QL0lLsNciaCx7pE2W2X9_LOGoVX97n_X3423mOB/exec";
+const callsUrl = "https://script.google.com/macros/s/AKfycbyGnnjQDUxrCtc8us-b5MW_EFG5uHcyc95ayIx6IqN6ka1fA-ChGIOFiD_yHWpj9xTmnQ/exec";
 
 fetch(callsUrl)
     .then(res => res.json())
