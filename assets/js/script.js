@@ -1,5 +1,5 @@
 const callsUrl = "https://script.google.com/macros/s/AKfycbyGnnjQDUxrCtc8us-b5MW_EFG5uHcyc95ayIx6IqN6ka1fA-ChGIOFiD_yHWpj9xTmnQ/exec";
-const textsUrl = "https://script.google.com/macros/s/AKfycbxvBAlvnGl46E74y7nNoNIqBiB1qyuFuEx0_etB7xYK_7geGWijflvCMiC9mfbPUZAO_g/exec"
+const textsUrl = "https://script.google.com/macros/s/AKfycbxvBAlvnGl46E74y7nNoNIqBiB1qyuFuEx0_etB7xYK_7geGWijflvCMiC9mfbPUZAO_g/exec";
 
 fetch(callsUrl)
     .then(res => res.json())
